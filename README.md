@@ -1,4 +1,4 @@
-# Jogo-da-Velha-3D
+# Jogo_da_Velha_3D_Terminal
 Projeto de Jogo da Velha tridimensional desenvolvido em Python, permitindo que o humano jogue contra o algoritmo.
 O jogo em 3 dimensões difere do jogo da velha tradicional no fato de ser possível ganhar não apenas se houver uma sequência de 3 símbolos iguais na sequência de linhas, colunas ou diagonais de cada camada do jogo, mas também em diagonais, linhas e colunas entre as camadas (entre as dimensões).
 
